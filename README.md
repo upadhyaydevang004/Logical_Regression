@@ -1,4 +1,4 @@
-# Logical_Regression
+# Logistic Regression
 
 **Implementation of a machine learning algorithm**
 
